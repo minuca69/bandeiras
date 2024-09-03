@@ -1,0 +1,142 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    margin: 10px;
+    float: left;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.corazul{
+    background-color: blue;
+}
+.corbranca{
+background-color: white ;
+}
+.corvermelho{
+    background-color: red;
+}
+.corpreto{
+    background-color: black;
+}
+.coramarelo{
+    background-color: yellow;
+    
+}
+.corverde{
+    background-color: green;
+}
+.corazulclaro{
+    background-color: aqua;
+}
+.corlaranja{
+    background-color: orange;
+}
+.corcinza{
+    background-color: gray;
+}
+.bola{
+    width: 200px;
+    height: 200px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 200px;
+    margin-top: 110px;
+    position: absolute;
+    z-index: 90;
+    border: 3px solid black;
+}
+.lisH{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+    
+    
+
+}
+.lisV{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+}
+
+.borda{
+    border: 5px solid white;
+}
+.lisHborda{
+    width: 595px;
+    height: 95px;
+    display: block;
+    position: relative;
+    top: 145px;
+}
+.lisVborda{
+    width: 95px;
+    height: 415px;
+    position: relative;
+    top: -104px;
+    left: 145px;
+}
+.lisHorsuica{
+    width: 270px;
+    height: 100px;
+    display: block;
+    position:relative;
+    top:150px ;
+    margin-left: 150px;
+ 
+ 
+}
+.lisVertsuica{
+    width: 100px;
+    height: 250px;
+    position: relative;
+    bottom: 100px;
+    left: 150px;
+    margin-left: 85px;
+    margin-top: 70px;
+ 
+ 
+ 
+ 
+}
+.col50{
+    width: 100px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.lin50{
+    width: 300px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.linpequena{
+    width: 30px;
+    height: 14px;
+    display: block;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    
+}
+

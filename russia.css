@@ -1,0 +1,40 @@
+
+
+
+
+
+#caixa1 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    width: 700px;
+    height: 100px;
+    display: block;
+    float: left;
+   
+}
+
+#caixa2 {
+    background-color: blue;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    display: block;
+    float: left;
+  
+}
+
+#caixa3 {
+    background-color: red;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    display: block;
+    float: left;
+
+}
